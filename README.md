@@ -25,14 +25,14 @@ The performance of each model will be presented, showcasing their accuracy in pr
 ## Usage
 To use this project, follow these steps:
 
-Clone the repository.\\
-Install the required dependencies.
-Preprocess the dataset.
-Train the model using the desired algorithm.
-Evaluate the model's performance.
-Make predictions on new data.
-Contributing
-Contributions to this project are welcome. Feel free to open an issue to report bugs, suggest improvements, or submit pull requests with new features.
+- Clone the repository.
+- Install the required dependencies.
+- Preprocess the dataset.
+- Train the model using the desired algorithm.
+- Evaluate the model's performance.
+- Make predictions on new data.
+- Contributing
+- Contributions to this project are welcome. Feel free to open an issue to report bugs, suggest improvements, or submit pull requests with new features.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
