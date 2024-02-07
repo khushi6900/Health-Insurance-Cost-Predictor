@@ -35,5 +35,5 @@ To use this project, follow these steps:
 - Contributions to this project are welcome. Feel free to open an issue to report bugs, suggest improvements, or submit pull requests with new features.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).<br>
 Copyright © 2024 [Khushi Mahajan](https://github.com/khushi6900)
