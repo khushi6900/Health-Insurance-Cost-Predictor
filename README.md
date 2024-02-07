@@ -36,3 +36,4 @@ To use this project, follow these steps:
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+Copyright © 2024 [Khushi Mahajan](https://github.com/khushi6900)
