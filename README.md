@@ -1,14 +1,14 @@
 # Health-Insurance-Cost-Predictor
  "🩺 Predict Health Insurance Costs with ML! Explore this robust model analyzing factors for accurate predictions. Join me to enhance financial planning in healthcare! 💉💰 #ML #HealthcareFinance"
 
-## Table of Contents
-Introduction
-Dataset
-Methods
-Results
-Usage
-Contributing
-License
+## Table of Contents:
+- Introduction
+- Dataset
+- Methods
+- Results
+- Usage
+- Contributing
+- License
 
 ## Introduction
 Health insurance costs are influenced by a variety of factors, including demographics, lifestyle choices, and geographical location. Predicting these costs accurately is essential for insurance companies to effectively manage risk and set appropriate premiums. This project aims to build a predictive model that can estimate health insurance costs based on individual characteristics.
